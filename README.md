@@ -1,5 +1,5 @@
 # sales-gdp
-
+This project aims to explore which factors contribute most in predicting sales for an online superstore. 
 
 ## Datasets
 The Sales dataset can be accessed from Kaggle: [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
