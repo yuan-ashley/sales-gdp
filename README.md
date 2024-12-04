@@ -1,5 +1,5 @@
 # sales-gdp
-This project aims to explore which factors are important in predicting sales for an online superstore. Variables explored include those provided by the Kaggle dataset and gross domestic product (GDP). 
+This project aims to explore which factors are important in predicting sales for an online retail superstore. Variables explored include those provided by the Kaggle dataset and gross domestic product (GDP). 
 
 ## Datasets
 The Sales dataset can be accessed from Kaggle: [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
