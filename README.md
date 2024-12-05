@@ -40,4 +40,4 @@ pip install -r requirements.txt
 
 ### 4. Running the Prediction Notebook
 
-Open and execute the `.ipynb` Jupyter Notebook.
+Open and execute the `ay362_210FinalProject.ipynb` Jupyter Notebook.
