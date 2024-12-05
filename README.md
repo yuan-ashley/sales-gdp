@@ -1,4 +1,4 @@
-# sales-gdp
+# Sales Prediction and Customer Analysis Using Supervised Learning Methods
 This project aims to explore which factors are important in predicting sales for an online retail superstore. Variables explored include those provided by the Kaggle dataset and gross domestic product (GDP). 
 
 ## Datasets
